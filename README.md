@@ -1,2 +1,2 @@
-# Competitive-Programing
-Solution to some problems in the Competitive Programing Guide
+# Competitive-Programming
+Solution to some problems in the Competitive Programming Guide
